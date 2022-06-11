@@ -250,7 +250,7 @@
 "wasu",
 "bilibili"
 ],
-"spider": "clan://mao9527/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
+"spider": "https://cdn.jsdelivr.net/gh/helbenli/CatVodTVSpider@master/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 "ijk": [
 {
 "group": "软解码",
